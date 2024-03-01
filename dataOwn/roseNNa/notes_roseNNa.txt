@@ -1,0 +1,1 @@
+in layers.f90        REAL (c_double), ALLOCATABLE, intent(inout) :: inp(:,:) !===input is 2d usually (k,n), where n is usually 1
