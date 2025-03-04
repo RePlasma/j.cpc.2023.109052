@@ -10,7 +10,7 @@ Link to github repo: https://github.com/comp-physics/roseNNa (last commit Aug 27
 
 Author of this notebook: [Óscar Amaro](https://github.com/OsAmaro) (December 2023)
 
-To install RoseNNa and check that it is working ok, check this [guide](https://github.com/RePlasma/j.cpc.2023.109052/blob/main/guide_RoseNNa/guide_RoseNNa.md).
+To install RoseNNa and check that it is working ok, check this [guide](https://github.com/RePlasma/j.cpc.2023.109052/blob/main/first_run/guide_RoseNNa.md).
 
 Data from preprint retrieved with WebPlotDigitizer. Results of notebook that are not from the paper were obtained with a ``3.5 GHz 6-Core Intel Xeon E5`` processor.
 
