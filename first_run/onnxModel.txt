@@ -1,0 +1,9 @@
+4
+Gemm
+2 2 
+2 
+Relu
+Gemm
+3 2 
+3 
+Relu
